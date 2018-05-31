@@ -16,7 +16,7 @@ namespace classes
         {
 
             IFaceServiceClient faceServiceClient = new FaceServiceClient("key", "https://northeurope.api.cognitive.microsoft.com/face/v1.0");
-            string personGroupId = "groupid";
+            string personGroupId = "youtgroupid";
             string path = @"C:\Users\avalo\source\repos\opencv3\opencv3\bin\Debug\TEMP\2017-11-16 (6).png";
 
             //Database configure 
